@@ -1,4 +1,4 @@
-# M02 W01 The Dev Workflow
+# M09 W22 Intro to Ruby
 [Github Repository]() | [Vimeo Video Recording]()
 
 # Introduction to Ruby
